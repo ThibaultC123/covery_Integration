@@ -5,7 +5,7 @@
     font-family: "HK Grotesk";
 }
 
-.container {
+.container-section1 {
     position: relative;
     width: 1120px;
     height: 100%;
@@ -19,13 +19,15 @@ section#section1 {
     color: white;
 }
 
-section#section1 .logo {
+section#section1 .logo img {
     position: absolute;
     left: 0;
-    top: 40px;
+    top: 60px;
+    width: 158px;
+    height: 49px;
 }
 
-section#section1 .container {
+section#section1 .container-section1 {
     display: flex;
     align-items: center;
 }
@@ -120,7 +122,43 @@ section#section1 .star-button .number{
     align-items: center;
 }
 
-section#section1 .image-chiante {
+section#section1 .image-chiante img {
     text-align: right;
     padding-left: 77px;
+    width: 567px;
+    height: 687px;
+}
+
+.container-section2 {
+    position: relative;
+    width: 855px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+section#section2 .content {
+    padding: 100px 0;
+}
+
+section#section2 .content h1 {
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 110%;
+    text-align: center;
+    color: #454658;
+    margin-bottom: 25px;
+}
+
+section#section2 .content p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 150%;
+    text-align: center;
+    color: #454658;
+    margin: 0px 24px;
+}
+
+section#section2 .image-wrapper img {
+    width: 853px;
+    height: 472px;
 }
