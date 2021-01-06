@@ -230,3 +230,64 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+/*-- Section 4 --*/
+
+section#section4 .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section#section4 .bloc {
+    max-width: 428px;
+}
+
+section#section4 .bloc h2 {
+    font-family: "HK Grotesk";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 26px;
+    color: #454658;
+}
+
+section#section4 .bloc p {
+    font-family: "SF UI Text";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 30px 0 20px 0;
+}
+
+section#section4 .bloc span {
+    font-family: "SF UI Text";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #5D64D2;
+}
+
+/*-- Section 5 --*/
+
+section#section5 h1 {
+    font-family: "HK Grotesk";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    color: #454658;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+/*-- Footer --*/
+
+footer {
+    background-color: #151B2B;
+    height: 150px;
+}
