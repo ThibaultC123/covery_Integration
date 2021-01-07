@@ -15,6 +15,51 @@
 
 /*-- Section 1 --*/
 
+@media screen and (max-width: 1180px) {
+    #section1 .right {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    #section1 {
+        height: 100%;
+        background-color: #151b2b;
+        color: white;
+    }
+
+    #section1 .container {
+        flex-direction: column;
+        padding-top: 150px;
+    }
+
+    #section1 .left {
+        width: 80%;
+    }
+
+    #section1 .h1 {
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+
+    #section1 .h2 {
+        text-align: center;
+    }
+
+    #section1 .p {
+        max-width: none;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    #section1 .row-button {
+        justify-content: center;
+    }
+
+    #section1 .right {
+        height: 700px;
+    }
+}
 
 /*-- Section 2 --*/
 

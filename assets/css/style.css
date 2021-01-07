@@ -1,5 +1,16 @@
 /*-- Global --*/
 
+/* :root {
+    --MainTitleFont: "HK Grotesk Extra-Bold";
+    --SecondaryTitleFont: "HK Grotesk Semi-Bold";
+    --Sec4TitleFont: "HK Grotesk Bold";
+
+    --BodyFont: "HK Grotesk Regular";
+
+    --ContentFont: "SF UI Text Regular";
+    --LinkFont: "";
+} */
+
 * {
     margin: 0;
     padding: 0;

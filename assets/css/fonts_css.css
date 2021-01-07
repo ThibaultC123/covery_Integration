@@ -1,0 +1,63 @@
+/*-- HKGrotesk --*/
+
+@font-face {
+    font-family: "HK Grotesk Regular"; /*Regular*/
+    font-style: normal;
+    src: local("HK Grotesk Regular"), url('../fonts/hk-grotesk/HKGrotesk-Regular.otf') format('otf');
+}
+
+@font-face {
+    font-family: "HK Grotesk Light"; /*Light*/
+    font-style: normal;
+    src: local("HK Grotesk Light"), url('../fonts/hk-grotesk/HKGrotesk-Light.otf') format('otf');
+}
+
+@font-face {
+    font-family: "HK Grotesk Medium"; /*Medium*/
+    font-style: normal;
+    src: local("HK Grotesk Medium"), url('../fonts/hk-grotesk/HKGrotesk-Medium.otf') format('otf');
+}
+
+@font-face {
+    font-family: "HK Grotesk Semi-Bold"; /*Semi-Bold*/
+    font-style: normal;
+    src: local("HK Grotesk Semi-Bold"), url('../fonts/hk-grotesk/HKGrotesk-SemiBold.otf') format('otf');
+}
+
+@font-face {
+    font-family: "HK Grotesk Bold"; /*Bold*/
+    font-style: normal;
+    src: local("HK Grotesk Bold"), url('../fonts/hk-grotesk/HKGrotesk-Bold.otf') format('otf');
+}
+
+@font-face {
+    font-family: "HK Grotesk Extra-Bold"; /*Bold*/
+    font-style: normal;
+    src: local("HK Grotesk Extra-Bold"), url('../fonts/hk-grotesk/HKGrotesk-ExtraBold.otf') format('otf');
+}
+
+/*-- SFUIText --*/
+
+@font-face {
+    font-family: "SF UI Text Regular";
+    font-style: normal;
+    src: local("SF UI Text Regular"), url('../fonts/SF_UI/SFUIText-Regular.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: "SF UI Text Light";
+    font-style: normal;
+    src: local("SF UI Text Light"), url('../fonts/SF_UI/SFUIText-Light.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: "SF UI Text Bold";
+    font-style: normal;
+    src: local("SF UI Text Bold"), url('../fonts/SF_UI/SFUIText-Regular.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: "SF UI Text Semi-Bold";
+    font-style: normal;
+    src: local("SF UI Text Semi-Bold"), url('../fonts/SF_UI/SFUIText-Semi-Bold.ttf') format('ttf');
+}
